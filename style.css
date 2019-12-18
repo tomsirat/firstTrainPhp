@@ -1,0 +1,37 @@
+body {
+  color: ghostwhite; }
+  body h4 {
+    margin-bottom: 1rem; }
+  body p {
+    line-height: 0.8rem; }
+
+.btn {
+  margin-top: 1rem; }
+
+.card-body p {
+  color: black; }
+.card-body .types {
+  color: #e6531e; }
+
+nav {
+  margin-top: 5rem; }
+
+.container-fluid {
+  height: 500vh; }
+
+.toast {
+  width: 100%;
+  opacity: 1 !important;
+  max-width: 920px !important; }
+  .toast strong {
+    color: black; }
+  .toast .toast-body {
+    color: #e6531e; }
+
+.variables {
+  color: #126ed1; }
+
+.echo {
+  color: rgba(255, 174, 0, 0.986); }
+
+/*# sourceMappingURL=style.css.map */

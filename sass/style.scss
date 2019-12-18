@@ -1,0 +1,52 @@
+body {
+    color: ghostwhite;
+    h4 {
+        margin-bottom: 1rem;
+    }
+    p {
+        line-height: 0.8rem;
+    }
+  }
+.btn {
+    margin-top: 1rem;
+}
+.card-body {
+    p {
+      color: black;
+    }
+    .types {
+        color: rgb(230, 83, 30);
+    }
+}
+
+nav {
+    margin-top: 5rem;
+}
+
+.container-fluid {
+    height: 500vh;
+}
+
+.toast {
+    strong {
+        color: black
+    }
+
+    width: 100%;
+    opacity: 1 !important;
+    max-width: 920px !important;
+
+    .toast-body {
+        color: rgb(230, 83, 30);
+    }
+}
+
+
+// COLORS //
+
+.variables {
+    color: #126ed1
+}
+.echo {
+    color: rgba(255, 174, 0, 0.986);
+}
