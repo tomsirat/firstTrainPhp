@@ -9,7 +9,8 @@ body {
   margin-top: 1rem; }
 
 .card-body p {
-  color: black; }
+  color: black;
+  margin: initial; }
 .card-body .types {
   color: #e6531e; }
 

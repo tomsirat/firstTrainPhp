@@ -257,7 +257,7 @@
                 <div class="toast-body">
                     <span class="variables">$bob</span> = 1;
                     <?php echo "</br>"; ?>
-                    <span class="echo">echo </span><span class="echo">gettype</span>(<span class="variables">$bob</span>)  
+                    <span class="echo">echo </span><span class="echo">gettype</span>(<span class="variables">$bob</span>); 
                     <?php echo "</br>"; ?>
                     <span class="variables">$bob</span> = 4.8;
                     <?php echo "</br>"; ?>
